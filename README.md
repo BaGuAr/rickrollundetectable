@@ -5,6 +5,6 @@ if just used bit.ly:<br>
 <br>if this code is between video and link:<br>
 ![image](https://user-images.githubusercontent.com/92256065/188081450-9bd152fd-a36b-4007-aef8-5d05942773b4.png)<br>
 IT WILL NOT SHOWN! 
-<br> Credit This GitHub when you use this! "if you can"
+<br> Credit This GitHub when you use this! "if you can"<br>
 better.html: ( it will look like this (if edit few lines) )
 ![image](https://user-images.githubusercontent.com/92256065/188141305-708937d6-5147-4ebd-aa95-d2b2e235cf52.png)
